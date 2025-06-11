@@ -1,5 +1,5 @@
 **📄 PDF Handling Using Python**
-This is a simple yet powerful PDF Handling Tool built using Python. The project allows you to perform essential PDF operations such as creating PDFs from images, merging multiple PDFs, setting password protection, and removing password protection. It is a beginner-friendly project designed for practicing Python file handling and working with external libraries.
+  - This is a simple yet powerful PDF Handling Tool built using Python. The project allows you to perform essential PDF operations such as creating PDFs from images, merging multiple PDFs, setting password protection, and removing password protection. It is a beginner-friendly project designed for practicing Python file handling and working with external libraries.
 
 **🚀 Features**
   - 📂 Create PDF: Convert multiple images into a single PDF.

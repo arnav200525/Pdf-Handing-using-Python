@@ -18,6 +18,6 @@ This is a simple yet powerful PDF Handling Tool built using Python. The project 
   - Encrypted files require the correct password to be decrypted.
   - File operations depend on the files being in the same directory as the script.
 
-**📄 Disclaimer**
+**📄 Disclaimer** :
 This project is unlicensed and made purely for educational purposes. You are free to explore, learn, and modify, but commercial use or redistribution is not intended.
 

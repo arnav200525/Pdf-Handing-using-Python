@@ -13,6 +13,9 @@
       - img2pdf (pip install img2pdf)
       - pypdf (pip install pypdf)
 
+**Files presnt in code**
+  - s1.jpg, s2.jpg, s3.jpg are sample images used to create pdf, merged-pdf.pdf is that which is created from s1,s2,s3 images, encrypted merged-pdf.pdf is the password protected "hellogithub", merged-multiple.pdf is make from merged.pdf & sample pdf.
+
 **📌 Notes**
   - Input file names with proper extensions (e.g., image1.jpg, file.pdf).
   - Encrypted files require the correct password to be decrypted.
